@@ -18,7 +18,7 @@ from aiohttp import ClientSession, TCPConnector, BasicAuth
 
 from delphi_utils.logger import get_structured_logger
 
-__version__ = "4.1.26"
+__version__ = "6.7.8"
 
 _HEADERS = {"user-agent": "delphi_epidata/" + __version__ + " (Python)"}
 
