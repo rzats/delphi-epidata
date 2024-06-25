@@ -5,7 +5,7 @@ https://github.com/cmu-delphi/delphi-epidata
 
 Notes:
  - Requires the `requests` module.
- - Compatible with Python 2 and 3.
+ - Compatible with Python 2 and 3. :)
 """
 
 # External modules
