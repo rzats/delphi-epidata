@@ -5,7 +5,7 @@ https://github.com/cmu-delphi/delphi-epidata
 
 Notes:
  - Requires the `requests` module.
- - Compatible with Python 2 and 3.
+ - Compatible with Python 2 and 3. :)
 """
 
 # External modules
@@ -18,7 +18,7 @@ from aiohttp import ClientSession, TCPConnector, BasicAuth
 
 from delphi_utils.logger import get_structured_logger
 
-__version__ = "4.1.24"
+__version__ = "4.1.26"
 
 _HEADERS = {"user-agent": "delphi_epidata/" + __version__ + " (Python)"}
 
